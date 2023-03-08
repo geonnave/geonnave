@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer and a PhD Candidate at the University of São Paulo. 
+I am a software engineer with a Bachelor degree in Computer Science and a PhD in Electrical Engineering.
 [🌐](https://geonnave.com/)
 [👨‍💻](https://github.com/geonnave)
 [🎓](https://scholar.google.com/citations?user=TBf0rLkAAAAJ&hl=en)
