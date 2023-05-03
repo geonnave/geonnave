@@ -5,9 +5,9 @@ I am a software engineer with a Bachelor degree in Computer Science and a PhD in
 [👨‍💻](https://github.com/geonnave)
 [🎓](https://scholar.google.com/citations?user=TBf0rLkAAAAJ&hl=en)
 
-I conduct research and develop software in the area of **Decentralized IoT Security**. In particular, I am interested in bringing together the worlds of **IoT security** and **decentralized identity**.
+I am currently working as a Research Engineer at [Inria](https://www.inria.fr/fr/centre-inria-de-paris), where I am implementing security standards for IoT environments.
 
-You can reach me via Twitter or email, it's the same username/prefix as GitHub's.
+One can reach me via Twitter or email, it's the same username/prefix as GitHub's.
 
 <!--
 **geonnave/geonnave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
