@@ -1,13 +1,16 @@
 ### Hi there 👋
 
-I am a software engineer with a Bachelor degree in Computer Science and a PhD in Electrical Engineering.
+I am a research engineer with a Bachelor degree in Computer Science and a PhD in Electrical Engineering.
 [🌐](https://geonnave.com/)
 [👨‍💻](https://github.com/geonnave)
 [🎓](https://scholar.google.com/citations?user=TBf0rLkAAAAJ&hl=en)
 
-I am currently working as a Research Engineer at [Inria](https://www.inria.fr/fr/centre-inria-de-paris), where I am implementing security standards for IoT environments.
+I am currently working at [Inria Paris](https://www.inria.fr/fr/centre-inria-de-paris) with the amazing [AIO team](https://aio.inria.fr/). Things I have been doing include:
+- build a [novel link layer](https://github.com/DotBots/mari) that allows connecting hundreds of micro-robots using BLE radios 
+- [standardize](https://datatracker.ietf.org/doc/draft-ietf-lake-authz/) and [implement](https://github.com/lake-rs/lakers) security standards for IoT environments
+- contribute to the [DotBots](https://github.com/DotBots) ecosystem 
 
-One can reach me via Twitter or email, it's the same username/prefix as GitHub's.
+If you wish to get in contact, send a message to my GitHub username at gmail dot com. 
 
 <!--
 **geonnave/geonnave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
